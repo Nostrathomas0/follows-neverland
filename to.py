@@ -1,7 +1,5 @@
-court = [ I
-you (singular)
-he
-we
+court = [ I, you 
+he, we
 you (plural)
 they
 this
